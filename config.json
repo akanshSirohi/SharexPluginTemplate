@@ -1,0 +1,8 @@
+{
+    "name": "Test Plugin",
+    "package": "sharex.test.plugin",
+    "description": "Plugin long description...",
+    "author": "Akansh Sirohi",
+    "version": "v1.0.0",
+    "versionCode": 1
+}
