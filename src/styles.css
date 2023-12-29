@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
@@ -6,6 +6,6 @@
 
 body {
     background-color: #222222;
-    font-family: 'Ysabeau SC', sans-serif;
+    font-family: 'Borel', cursive;
     color: #f2f2f2;
 }
